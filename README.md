@@ -68,4 +68,4 @@ print(d)
 print(ar)
 ```
 
-This one generates 6 digit PN in less than 1ns which after raises exponentially over 1000ns to 4000ns which is 0.001ms - 0.004ms
+This one generates 6 digit PN in less than 1ns which after raises exponentially over 1000ns to 4000ns which is 0.001ms - 0.004ms. Do note that on the biggest No, the program may broke and generate non prime no
