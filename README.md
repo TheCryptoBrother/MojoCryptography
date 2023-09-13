@@ -6,7 +6,6 @@
 
 - [Large Prime Numbers Generations](#lpng)
 - [Advanced Version of Large Prime Numbers Generations](#lpng)
-- 
 ---
 
 ## Introduction
