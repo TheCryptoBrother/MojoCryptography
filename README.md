@@ -8,12 +8,16 @@
 
 ---
 
-## Introductio
+## Introduction
 
 This is a sample script of getting large prime numbers with mojo.
 
 ---
+## Stadistics
 
+It can get 9 digits in less than 0.0189ms and get the same number multiplied by its self, checked if its prime and printed in 0.001793ms each one.
+
+---
 ### LPNG:
 
 ```mojo
